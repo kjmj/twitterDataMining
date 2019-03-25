@@ -2,20 +2,26 @@
 
 In this project, I collect and analyze some data from twitter. It was completed in my "Foundations of Data Science" course at WPI.
 
-## Usage
+## View Results (Quick Setup)
 
-Install JupyterNotebook using Anaconda or pip, follow instructions here: https://jupyter.org/install
+Just open "twitterMiner.ipynb" in a program capable of viewing it
 
-Install project dependancies
+## Setup
+
+If you would like to work with and modify the code, follow these instructions
+
+1. Install JupyterNotebook using Anaconda or pip, follow instructions here: https://jupyter.org/install
+
+2. Install project dependancies
 
 ```
 pip install -r requirements.txt
 ```
 
-Start jupyter notebook
+3. Start jupyter notebook
 
 ```
 jupyter notebook
 ```
 
-Open the "twitterMiner.ipynb" file
+4. Open the "twitterMiner.ipynb" file
