@@ -4,7 +4,7 @@ In this project, I collect and analyze some data from twitter. It was completed 
 
 ## View Results (Quick Setup)
 
-Just open "twitterMiner.ipynb" in a program capable of viewing it
+Just open "twitterMiner.ipynb" in a program capable of viewing it (GitHub can do this)
 
 ## Setup
 
